@@ -10,6 +10,6 @@ AutoHotkey 中文帮助&emsp; [[v1]](zh-cn/docs/index.htm) &emsp; [[v2]](v2/docs
 
 <!-- ![Image text](https://raw.githubusercontent.com/wyagd001/wyagd001.github.io/master/img/coffee.png) -->
 <!-- ![Image text](https://wyagd001.github.io/img/coffee.png){:height="256px" width="256px"}-->
-<img src="https://wyagd001.github.io/img/coffee.png" alt="Image text" width="256px" />
+
 
 ![AutoHotkey](https://wyagd001.github.io/img/ahk-logo-no-text241x78-180.png)
