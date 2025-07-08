@@ -34,7 +34,7 @@
   "v1":true,
   "Change the version":"更换版本",
   "Edit this document on GitHub":"在 GitHub 编辑文档",
-  "https://github.com/Lexikos/AutoHotkey_L-Docs/edit/v1/docs/":"https://github.com/wyagd001/wyagd001.github.io/edit/master/zh-cn/docs/",
+  "https://github.com/Lexikos/AutoHotkey_L-Docs/edit/v1/docs/":"https://github.com/landv/ahkdoc/edit/master/zh-cn/docs/",
   "Go back":"后退",
   "Go forward":"前进",
   "Change the font size":"更改字体大小",

@@ -1009,11 +1009,11 @@ function ctor_structure()
                          'de': 'https://ahkde.github.io/docs/v1/',
                          'ko': 'https://ahkscript.github.io/ko/docs/',
                          'pt': 'https://ahkscript.github.io/pt/docs/',
-                         'zh': 'https://wyagd001.github.io/zh-cn/docs/' },
+                         'zh': 'https://landv.github.io/ahkdoc/zh-cn/docs/' },
                  'v2': { 'en': 'https://www.autohotkey.com/docs/v2/',
                          'de': 'https://ahkde.github.io/docs/v2/',
                          'ja': 'https://ahkscript.github.io/ja/docs/v2/',
-                         'zh': 'https://wyagd001.github.io/v2/docs/' } }
+                         'zh': 'https://landv.github.io/ahkdoc/v2/docs/' } }
 
     var $langList = $online.find('ul.languages')
     var $verList = $online.find('ul.versions')
